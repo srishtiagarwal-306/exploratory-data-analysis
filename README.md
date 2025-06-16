@@ -93,8 +93,6 @@ The notebook contains various plots, including:
 * ROC Curve for Model Evaluation
 * Confusion Matrix Heatmap
 
-> You can add screenshots of these charts to this README for better visual appeal.
-
 ---
 
 ## ⚙️ Technologies Used
